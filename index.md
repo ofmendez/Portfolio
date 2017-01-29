@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
-{{ site.baseurl }}/Pdfs/Fabian.pdf
+<link href="{{ site.baseurl }}/Pdfs/Fabian.pdf" rel="stylesheet">
+
 You can use the [editor on GitHub](https://github.com/ofmendez/Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
