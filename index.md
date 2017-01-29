@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
-{% include youtubePlayer.html pdfViewer.html %}
-
+{% include youtubePlayer.html  %}
+{% endinclude %}
+{% include pdfViewer.html %}
+{% endinclude %}
 
 You can use the [editor on GitHub](https://github.com/ofmendez/Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
