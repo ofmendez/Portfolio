@@ -1,7 +1,8 @@
 ## Welcome to GitHub Pages
 
-https://docs.google.com/viewer?url=https://ofmendez.github.io/Portfolio/Pdfs/Fabian.pdf
-
+[Image](https://ofmendez.github.io/Portfolio/Pdfs/Fabian.pdf)
+[pdf](https://ofmendez.github.io/Portfolio/Pdfs/Fabian.pdf)
+[PDF](https://ofmendez.github.io/Portfolio/Pdfs/Fabian.pdf)
 You can use the [editor on GitHub](https://github.com/ofmendez/Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
