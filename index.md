@@ -3,13 +3,17 @@ You can use the [editor on GitHub](https://github.com/ofmendez/Portfolio/edit/ma
 
 {% include youtubePlayer.html  %}
 
-## Barcelona SC-Ecuador Oficial
+## Barcelona SC-Ecuador Oficial:
 
-[link](https://play.google.com/store/apps/details?id=com.BarcelonaSC.BarcelonaApp)
+[https://play.google.com/store/apps/details?id=com.BarcelonaSC.BarcelonaApp](https://play.google.com/store/apps/details?id=com.BarcelonaSC.BarcelonaApp)
 
 ## Evolution:
 
-[link](https://play.google.com/store/apps/details?id=com.WiseInMedia.Evolution)
+[https://play.google.com/store/apps/details?id=com.WiseInMedia.Evolution](https://play.google.com/store/apps/details?id=com.WiseInMedia.Evolution)
+
+## NoTips:
+
+[https://play.google.com/store/apps/details?id=com.WiseInMedia.NoTips](https://play.google.com/store/apps/details?id=com.WiseInMedia.NoTips)
 
 {% include pdfViewer.html %}
 
