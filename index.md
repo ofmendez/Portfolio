@@ -9,9 +9,6 @@
 ## NoTips:
 [link](https://play.google.com/store/apps/details?id=com.WiseInMedia.NoTips)
 
-
-
-_______
 {% include pdfViewer.html %}
 {% endinclude %}
 
