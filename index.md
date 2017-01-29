@@ -1,6 +1,6 @@
 ## HELLO
 You can use the [editor on GitHub](https://github.com/ofmendez/Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-{% include youtubePlayer.html  %}
+
 
 ## Barcelona SC-Ecuador Oficial
 [link](https://play.google.com/store/apps/details?id=com.BarcelonaSC.BarcelonaApp)
