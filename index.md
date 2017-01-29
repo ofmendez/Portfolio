@@ -8,6 +8,9 @@ You can use the [editor on GitHub](https://github.com/ofmendez/Portfolio/edit/ma
 [link](https://play.google.com/store/apps/details?id=com.WiseInMedia.Evolution)
 ## NoTips:
 [link](https://play.google.com/store/apps/details?id=com.WiseInMedia.NoTips)
+
+
+
 {% include pdfViewer.html %}
 {% endinclude %}
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
