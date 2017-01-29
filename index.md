@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
-[Intro.pdf](https://ofmendez.github.io/Portfolio/Pdfs/Fabian.pdf)
+
+https://docs.google.com/viewer?url=https://ofmendez.github.io/Portfolio/Pdfs/Fabian.pdf
 
 You can use the [editor on GitHub](https://github.com/ofmendez/Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
