@@ -1,7 +1,7 @@
 ## HELLO
 You can use the [editor on GitHub](https://github.com/ofmendez/Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 {% include youtubePlayer.html  %}
-{% endinclude %}
+
 ## Barcelona SC-Ecuador Oficial
 [link](https://play.google.com/store/apps/details?id=com.BarcelonaSC.BarcelonaApp)
 ## Evolution:
@@ -48,3 +48,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
+{% endinclude %}
